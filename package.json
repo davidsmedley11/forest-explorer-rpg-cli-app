@@ -1,0 +1,12 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "inquirer": "^12.9.0"
+  }
+}
